@@ -1,5 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD60A,50:FFC107,100:FF9800&height=200&section=header&text=Samistha%20Kesarwani&fontSize=50&fontColor=1a1b27&fontAlignY=35&desc=B.Tech%20Data%20Science%20Grad%202027%20%7C%20ML%20%26%20Data%20Analytics&descAlignY=65&descAlign=50" alt="Samistha Kesarwani Header Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD60A,50:FFC107,100:FF9800&height=150&section=header" alt="Header Banner" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://samistha-portfolio.vercel.app/">
+    <!-- Replace the src link below if your portfolio PFP is hosted at a different URL -->
+    <img src="https://github.com/SamisthaKesarwani.png" width="160" style="border-radius: 50%; border: 4px solid #FFD60A; margin-top: -50px;" alt="Samistha's Profile Picture">
+  </a>
 </p>
 
 <h1 align="center">
@@ -7,7 +14,7 @@
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=1000&color=FFD60A&center=true&vCenter=true&width=650&lines=Data+Science+%26+Analytics+Student;Building+ML+%2B+Data+Projects;Turning+Data+Into+Decisions"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=1000&color=FFD60A&center=true&vCenter=true&width=650&lines=Data+Science+%26+Analytics+Student;Building+ML+%2B+Data+Projects;Turning+Data+Into+Decisions"/>
 </p>
 
 <p align="center">
@@ -16,6 +23,8 @@
   <img src="https://img.shields.io/badge/CGPA-9.02%2F10-FFD60A?style=for-the-badge&labelColor=1a1b27" />
   <img src="https://komarev.com/ghpvc/?username=SamisthaKesarwani&style=for-the-badge&color=FFD60A"/>
 </p>
+
+<br>
 
 <h2 align="center">👩‍💻 About Me</h2>
 
