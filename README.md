@@ -47,17 +47,6 @@
 </table>
 
 <br/>
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-- **[Leafie — Crop Disease Detection](https://github.com/SamisthaKesarwani/SamisthaKesarwani_PBEL-3.0)** — CNN trained from scratch across 38 disease/healthy classes and 14 crops, deployed via TF Lite (255MB → 21MB), flags low-confidence predictions instead of guessing · **86.3% val. accuracy** · [Live Demo](https://leafie.streamlit.app)
-- **[CineFans — Movie Recommender](https://github.com/SamisthaKesarwani/Movie-Recommender)** — Content-based engine using TF-IDF + cosine similarity over 5,000+ TMDB movies · [Live Demo](https://cinefans-movie-recommender.streamlit.app/)
-- **[Sales Performance & Revenue Dashboard](https://github.com/SamisthaKesarwani/Sales-Performance-Dashboard)** — Power BI dashboard over 10,000+ rows of Superstore data with monthly trends, region breakdowns, and interactive slicers
-- **[Diabetes Prediction Model](https://github.com/SamisthaKesarwani/Diabetes-Prediction-using-Support-Vector-Machine)** — Linear SVM on the PIMA dataset · **77.27% test accuracy**
-- **[Sonar Object Classification](https://github.com/SamisthaKesarwani/Sonar-Object-Classification-with-Confidence-Based-Unknown-Detection)** — Logistic regression labeling uncertain predictions "Unknown" instead of forcing a call · **76.2% test accuracy**
-- **Titanic — Kaggle Competition** — Random Forest entry, public leaderboard score **0.748**
-
-<br/>
 <h2 align="center"> 💻 Technical Skills</h2>
 
 **Programming**
@@ -92,6 +81,17 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<br/>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+- **[Leafie — Crop Disease Detection](https://github.com/SamisthaKesarwani/SamisthaKesarwani_PBEL-3.0)** — CNN trained from scratch across 38 disease/healthy classes and 14 crops, deployed via TF Lite (255MB → 21MB), flags low-confidence predictions instead of guessing · **86.3% val. accuracy** · [Live Demo](https://leafie.streamlit.app)
+- **[CineFans — Movie Recommender](https://github.com/SamisthaKesarwani/Movie-Recommender)** — Content-based engine using TF-IDF + cosine similarity over 5,000+ TMDB movies · [Live Demo](https://cinefans-movie-recommender.streamlit.app/)
+- **[Sales Performance & Revenue Dashboard](https://github.com/SamisthaKesarwani/Sales-Performance-Dashboard)** — Power BI dashboard over 10,000+ rows of Superstore data with monthly trends, region breakdowns, and interactive slicers
+- **[Diabetes Prediction Model](https://github.com/SamisthaKesarwani/Diabetes-Prediction-using-Support-Vector-Machine)** — Linear SVM on the PIMA dataset · **77.27% test accuracy**
+- **[Sonar Object Classification](https://github.com/SamisthaKesarwani/Sonar-Object-Classification-with-Confidence-Based-Unknown-Detection)** — Logistic regression labeling uncertain predictions "Unknown" instead of forcing a call · **76.2% test accuracy**
+- **Titanic — Kaggle Competition** — Random Forest entry, public leaderboard score **0.748**
 
 <br/>
 
