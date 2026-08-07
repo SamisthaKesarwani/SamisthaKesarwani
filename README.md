@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD60A,50:FFC107,100:FF9800&height=200&section=header&text=Samistha%20Kesarwani&fontSize=50&fontColor=1a1b27&fontAlignY=35&desc=B.Tech%20Data%20Science%20%2727%20%7C%20ML%20%26%20Data%20Analytics&descAlignY=65&descAlign=50" alt="Samistha Kesarwani Header Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD60A,50:FFC107,100:FF9800&height=200&section=header&text=Samistha%20Kesarwani&fontSize=50&fontColor=1a1b27&fontAlignY=35&desc=B.Tech%20Data%20Science%20Grad%202027%20%7C%20ML%20%26%20Data%20Analytics&descAlignY=65&descAlign=50" alt="Samistha Kesarwani Header Banner" width="100%">
 </p>
 
 <h1 align="center">
@@ -84,7 +84,7 @@
 <h2 align="center">🐍 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github.com/SamisthaKesarwani/SamisthaKesarwani/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/SamisthaKesarwani/SamisthaKesarwani/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
 <!--
