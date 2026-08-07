@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD60A,50:FFC107,100:FF9800&height=200&section=header&text=Samistha%20Kesarwani&fontSize=50&fontColor=1a1b27&fontAlignY=35&desc=B.Tech%20Data%20Science%20'27%20%7C%20ML%20%26%20Data%20Analytics&descAlignY=65&descAlign=50" alt="Samistha Kesarwani Header Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD60A,50:FFC107,100:FF9800&height=200&section=header&text=Samistha%20Kesarwani&fontSize=50&fontColor=1a1b27&fontAlignY=35&desc=B.Tech%20Data%20Science%20%2727%20%7C%20ML%20%26%20Data%20Analytics&descAlignY=65&descAlign=50" alt="Samistha Kesarwani Header Banner" width="100%">
 </p>
 
 <h1 align="center">
@@ -19,11 +19,6 @@
 
 <h2 align="center">👩‍💻 About Me</h2>
 
-<table align="center">
-<tr>
-
-<td width="65%" valign="top">
-
 - 🎓 Final-year **B.Tech (Honours) in Data Science & Analytics** at United University, Prayagraj.
 - 🌾 Building **Leafie** — an AI-based crop disease prediction system using CNN & TF Lite.
 - 🌱 Learning & working through an **IBM PBEL (Project-Based Experiential Learning)** virtual internship.
@@ -32,28 +27,40 @@
 - 📄 Check out my [portfolio site](https://samistha-portfolio.vercel.app/) for the full picture!
 - ✨ Always chasing the next dataset worth digging into.
 
-</td>
+<h2 align="center"> 💻 Technical Skills</h2>
 
-<td width="35%" align="center" valign="middle">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtY2J5cnV6OHRxeDVmOWlqbGNnY211OHpma200ZHpyMmx2dWlueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUGGAC3P4vdbNTut/giphy.gif" width="180" alt="Cute Coder Girl GIF" />
-</td>
+**Programming**
 
-</tr>
-</table>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<h2 align="center">💻 Tech Stack</h2>
+**Data Science**
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,mysql,sklearn,tensorflow,git,github,vscode,jupyter&perline=12"/>
-</p>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FFD60A?style=for-the-badge&labelColor=1a1b27)
 
-<p align="center">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
+**Analytics**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-FFD60A?style=for-the-badge&labelColor=1a1b27)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-FFD60A?style=for-the-badge&labelColor=1a1b27)
+![Statistics](https://img.shields.io/badge/Statistics-FFD60A?style=for-the-badge&labelColor=1a1b27)
+
+**Tools**
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 <h2 align="center">🚀 Featured Projects</h2>
 
