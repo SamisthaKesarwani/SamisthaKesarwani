@@ -2,13 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD60A,50:FFC107,100:FF9800&height=150&section=header" alt="Header Banner" width="100%">
 </p>
 
-<p align="center">
-  <a href="https://samistha-portfolio.vercel.app/">
-    <!-- Replace the src link below if your portfolio PFP is hosted at a different URL -->
-    <img src="https://github.com/SamisthaKesarwani.png" width="160" style="border-radius: 50%; border: 4px solid #FFD60A; margin-top: -50px;" alt="Samistha's Profile Picture">
-  </a>
-</p>
-
 <h1 align="center">
   Hey there, I'm <span style="color:#FFD60A;">Samistha</span> 👋
 </h1>
