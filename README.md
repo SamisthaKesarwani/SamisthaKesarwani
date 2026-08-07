@@ -19,6 +19,15 @@
 | 💬 Ask me about **Streamlit apps, Power BI dashboards, or ML model deployment** | 📄 Check out my [portfolio site](https://samistha-portfolio.vercel.app/) for the full picture |
 | ✨ Always chasing the next dataset worth digging into | |
 
+## 🚀 Featured Projects
+
+- **[Leafie — Crop Disease Detection](https://github.com/SamisthaKesarwani/SamisthaKesarwani_PBEL-3.0)** — CNN trained from scratch across 38 disease/healthy classes and 14 crops, deployed via TF Lite (255MB → 21MB), flags low-confidence predictions instead of guessing · **86.3% val. accuracy** · [Live Demo](https://leafie.streamlit.app)
+- **[CineFans — Movie Recommender](https://github.com/SamisthaKesarwani/Movie-Recommender)** — Content-based engine using TF-IDF + cosine similarity over 5,000+ TMDB movies · [Live Demo](https://cinefans-movie-recommender.streamlit.app/)
+- **[Sales Performance & Revenue Dashboard](https://github.com/SamisthaKesarwani/Sales-Performance-Dashboard)** — Power BI dashboard over 10,000+ rows of Superstore data with monthly trends, region breakdowns, and interactive slicers
+- **[Diabetes Prediction Model](https://github.com/SamisthaKesarwani/Diabetes-Prediction-using-Support-Vector-Machine)** — Linear SVM on the PIMA dataset · **77.27% test accuracy**
+- **[Sonar Object Classification](https://github.com/SamisthaKesarwani/Sonar-Object-Classification-with-Confidence-Based-Unknown-Detection)** — Logistic regression labeling uncertain predictions "Unknown" instead of forcing a call · **76.2% test accuracy**
+- **Titanic — Kaggle Competition** — Random Forest entry, public leaderboard score **0.748**
+
 ## 💻 Technical Skills
 
 **Programming**
@@ -54,19 +63,11 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🚀 Featured Projects
-
-- **[Leafie — Crop Disease Detection](https://github.com/SamisthaKesarwani/SamisthaKesarwani_PBEL-3.0)** — CNN trained from scratch across 38 disease/healthy classes and 14 crops, deployed via TF Lite (255MB → 21MB), flags low-confidence predictions instead of guessing · **86.3% val. accuracy** · [Live Demo](https://leafie.streamlit.app)
-- **[CineFans — Movie Recommender](https://github.com/SamisthaKesarwani/Movie-Recommender)** — Content-based engine using TF-IDF + cosine similarity over 5,000+ TMDB movies · [Live Demo](https://cinefans-movie-recommender.streamlit.app/)
-- **[Sales Performance & Revenue Dashboard](https://github.com/SamisthaKesarwani/Sales-Performance-Dashboard)** — Power BI dashboard over 10,000+ rows of Superstore data with monthly trends, region breakdowns, and interactive slicers
-- **[Diabetes Prediction Model](https://github.com/SamisthaKesarwani/Diabetes-Prediction-using-Support-Vector-Machine)** — Linear SVM on the PIMA dataset · **77.27% test accuracy**
-- **[Sonar Object Classification](https://github.com/SamisthaKesarwani/Sonar-Object-Classification-with-Confidence-Based-Unknown-Detection)** — Logistic regression labeling uncertain predictions "Unknown" instead of forcing a call · **76.2% test accuracy**
-- **Titanic — Kaggle Competition** — Random Forest entry, public leaderboard score **0.748**
-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamisthaKesarwani&show_icons=true&hide_border=true&bg_color=1a1b27&title_color=FFD60A&icon_color=FFD60A&text_color=ffffff" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamisthaKesarwani&theme=dark&hide_border=true&background=1a1b27&border=FFD60A&stroke=FFD60A&ring=FFD60A&fire=FFD60A&currStreakLabel=FFD60A" alt="Samistha's GitHub Streak" height="165" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamisthaKesarwani&theme=tokyonight&bg_color=1a1b27&color=FFD60A&line=FFD60A&point=ffffff&hide_border=true" alt="Samistha's Activity Graph" height="165" />
 </p>
 
 ## 🌐 Let's Connect
