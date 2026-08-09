@@ -1,122 +1,360 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD60A,50:FFC107,100:FF9800&height=150&section=header" alt="Header Banner" width="100%">
-</p>
+<div align="center">
 
-<h1 align="center">
-  Hey there, I'm <span style="color:#FFD60A;">Samistha</span> 👋
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1300,50:8B6A00,100:FFC107&height=280&section=header&text=Samistha%20Kesarwani&fontSize=55&fontColor=FFF3D0&fontAlignY=35&animation=fadeIn&desc=Aspiring%20Data%20Analyst%20%7C%20AI%20%2F%20ML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=1000&color=FFD60A&center=true&vCenter=true&width=650&lines=Data+Science+%26+Analytics+Student;Building+ML+%2B+Data+Projects;Turning+Data+Into+Decisions"/>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/SamisthaKesarwani?style=for-the-badge&logo=github&label=Followers&color=FFD60A&labelColor=1a1b27" />
-  <img src="https://img.shields.io/github/stars/SamisthaKesarwani?style=for-the-badge&logo=github&label=Stars&color=FFD60A&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/CGPA-9.02%2F10-FFD60A?style=for-the-badge&labelColor=1a1b27" />
-  <img src="https://komarev.com/ghpvc/?username=SamisthaKesarwani&style=for-the-badge&color=FFD60A"/>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FFD54F&center=true&vCenter=true&width=650&lines=Decode+Data.+Understand+People.;Machine+Learning+%7C+AI+%7C+Data+Analytics;Turning+Raw+Data+into+Real+Insights;Bubbly+Introvert+%2B+Curious+Builder" alt="Typing SVG" />
+</a>
 
-<br>
+<br/><br/>
 
-<h2 align="center">👩‍💻 About Me</h2>
+<img src="https://img.shields.io/badge/B.Tech%20(Honours)-Data%20Science%20%26%20Analytics-FFC107?style=flat-square&labelColor=1A1300&logo=googlescholar&logoColor=FFD54F"/>
+<img src="https://img.shields.io/badge/CGPA-9.02%2F10-FFC107?style=flat-square&labelColor=1A1300&logo=bookstack&logoColor=FFD54F"/>
+<img src="https://img.shields.io/badge/Location-Prayagraj%2C%20India-FFC107?style=flat-square&labelColor=1A1300&logo=googlemaps&logoColor=FFD54F"/>
 
-- 🎓 Final-year **B.Tech (Honours) in Data Science & Analytics** at United University, Prayagraj.
-- 🌾 Building **Leafie** — an AI-based crop disease prediction system using CNN & TF Lite.
-- 🌱 Learning & working through an **IBM PBEL (Project-Based Experiential Learning)** virtual internship.
-- 🤝 Looking to collaborate on **Data Analytics & Machine Learning projects**.
-- 💬 Ask me about **Streamlit apps, Power BI dashboards, or ML model deployment**.
-- 📄 Check out my [portfolio site](https://samistha-portfolio.vercel.app/) for the full picture!
-- ✨ Always chasing the next dataset worth digging into.
+<br/><br/>
 
-<h2 align="center"> 💻 Technical Skills</h2>
+<a href="https://samistha-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-FFC107?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A1300"/>
+</a>
+<a href="https://www.linkedin.com/in/samistha-kesarwani-55393625b/">
+  <img src="https://img.shields.io/badge/LinkedIn-FFC107?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1300"/>
+</a>
+<a href="mailto:samisthakesarwani444@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FFC107?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1300"/>
+</a>
+<a href="https://github.com/SamisthaKesarwani">
+  <img src="https://img.shields.io/badge/GitHub-FFC107?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1300"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=SamisthaKesarwani&style=flat-square&color=ffc107&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/SamisthaKesarwani?style=flat-square&color=ffc107&labelColor=1A1300&label=Followers"/>
+<img src="https://img.shields.io/github/stars/SamisthaKesarwani?style=flat-square&color=ffc107&labelColor=1A1300&label=Stars"/>
+
+</div>
+
+<br/>
+
+---
+
+## 🧠 About Me
+
+<img align="right" width="35%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
+I'm a final-year **B.Tech student in Data Science & Analytics** from Prayagraj, and I chose this field because data is everywhere — every industry, every decision, every trend has data behind it. I wanted to be the person who reads it.
+
+I define myself as a **bubbly introvert** — I love meeting people, hearing their perspectives, and learning something new from every conversation. When I'm not building dashboards or training models, I'm probably asking someone about their life.
+
+- 📊 Passionate about turning raw, messy data into **clear, decision-ready insights**
+- 🤖 Building hands-on projects across **Machine Learning, Deep Learning, and NLP**
+- 📈 Skilled at crafting **business intelligence dashboards** that tell a story, not just show numbers
+- 🎓 Maintaining a **9.02/10 CGPA** while balancing coursework with 5+ real-world projects
+- 🌱 Currently deepening my skills through the **IBM PBEL Virtual Internship**
+
+<br/>
+
+**💼 Open To:**
+
+<div align="center">
+
+| Data Analytics | SQL & Reporting | Power BI / Excel | Internships & Full-Time Roles |
+|:---:|:---:|:---:|:---:|
+| ✅ | ✅ | ✅ | ✅ |
+
+</div>
+
+<br/>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
 
 **Programming**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,mysql&theme=dark"/>
 
-**Data Science**
+<br/><br/>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-FFD60A?style=for-the-badge&labelColor=1a1b27)
+**Data Science & Machine Learning**
+
+<img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,pandas,numpy&theme=dark"/>
+
+<br/><br/>
 
 **Analytics**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-FFD60A?style=for-the-badge&labelColor=1a1b27)
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-FFD60A?style=for-the-badge&labelColor=1a1b27)
-![Statistics](https://img.shields.io/badge/Statistics-FFD60A?style=for-the-badge&labelColor=1a1b27)
+<img src="https://skillicons.dev/icons?i=powerbi,excel&theme=dark"/>
+
+<br/><br/>
 
 **Tools**
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=github,git,vscode,jupyter&theme=dark"/>
 
-<h2 align="center">🚀 Featured Projects</h2>
+</div>
 
-- **[Leafie — Crop Disease Detection](https://github.com/SamisthaKesarwani/SamisthaKesarwani_PBEL-3.0)** — CNN trained from scratch across 38 disease/healthy classes and 14 crops, deployed via TF Lite (255MB → 21MB), flags low-confidence predictions instead of guessing · **86.3% val. accuracy** · [Live Demo](https://leafie.streamlit.app)
-- **[CineFans — Movie Recommender](https://github.com/SamisthaKesarwani/Movie-Recommender)** — Content-based engine using TF-IDF + cosine similarity over 5,000+ TMDB movies · [Live Demo](https://cinefans-movie-recommender.streamlit.app/)
-- **[Sales Performance & Revenue Dashboard](https://github.com/SamisthaKesarwani/Sales-Performance-Dashboard)** — Power BI dashboard over 10,000+ rows of Superstore data with monthly trends, region breakdowns, and interactive slicers
-- **[Diabetes Prediction Model](https://github.com/SamisthaKesarwani/Diabetes-Prediction-using-Support-Vector-Machine)** — Linear SVM on the PIMA dataset · **77.27% test accuracy**
-- **[Sonar Object Classification](https://github.com/SamisthaKesarwani/Sonar-Object-Classification-with-Confidence-Based-Unknown-Detection)** — Logistic regression labeling uncertain predictions "Unknown" instead of forcing a call · **76.2% test accuracy**
-- **Titanic — Kaggle Competition** — Random Forest entry, public leaderboard score **0.748**
+<br/>
 
-<h2 align="center">📈 GitHub Analytics</h2>
+---
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=SamisthaKesarwani&hide_border=true&background=1a1b27&ring=FFD60A&fire=FFD60A&currStreakLabel=FFD60A&sideLabels=FFD60A&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
-</p>
+## 🚀 Featured Projects
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamisthaKesarwani&bg_color=1a1b27&color=FFD60A&line=FFD60A&point=FFFFFF&area=true&area_color=FFD60A&hide_border=true"/>
-</p>
+<details open>
+<summary><b>🔹 Leafie — Crop Disease Detection</b></summary>
+<br/>
 
-<h2 align="center">🐍 Contribution Graph</h2>
+> CNN trained from scratch to identify 38 disease/healthy classes across 14 crops.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SamisthaKesarwani/SamisthaKesarwani/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
+| Stack | Performance | Repository |
+|---|---|---|
+| Python, TensorFlow/Keras, TF Lite | 86.3% val. accuracy · 255MB → 21MB | [GitHub →](https://github.com/SamisthaKesarwani/SamisthaKesarwani_PBEL-3.0) |
 
-<!--
-To enable the snake animation:
-1. Create a GitHub Action in this repository.
-2. Use Platane/snk to generate the SVG every day.
-3. Commit the generated file into: output/github-contribution-grid-snake.svg
--->
+**[Live Demo →](https://leafie.streamlit.app)**
 
-<h2 align="center">🌐 Let's Connect</h2>
+</details>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/samistha-kesarwani-55393625b/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<details>
+<summary><b>🔹 Sales Performance & Revenue Dashboard</b></summary>
+<br/>
+
+> BI dashboard analyzing 10,000+ rows of Superstore sales data with trends and regional breakdowns.
+
+| Stack | Performance | Repository |
+|---|---|---|
+| Power BI, DAX, Power Query, Excel | ₹2.30M sales · 10K+ rows modeled | [GitHub →](https://github.com/SamisthaKesarwani/Sales-Performance-Dashboard) |
+
+**[View PDF →](https://github.com/SamisthaKesarwani/Sales-Performance-Dashboard/blob/main/Sales-Dashboard.pdf)**
+
+</details>
+
+<details>
+<summary><b>🔹 CineFans — Movie Recommender</b></summary>
+<br/>
+
+> Content-based recommendation engine surfacing the closest matches from 5,000+ TMDB movies.
+
+| Stack | Performance | Repository |
+|---|---|---|
+| Python, Scikit-learn, NLP, Streamlit | TF-IDF + cosine similarity · 5K+ movies | [GitHub →](https://github.com/SamisthaKesarwani/Movie-Recommender) |
+
+**[Live Demo →](https://cinefans-movie-recommender.streamlit.app/)**
+
+</details>
+
+<details>
+<summary><b>🔹 Diabetes Prediction Model</b></summary>
+<br/>
+
+> Linear SVM classifier predicting diabetic vs. non-diabetic outcomes on the PIMA dataset.
+
+| Stack | Performance | Repository |
+|---|---|---|
+| Python, Scikit-learn, SVM | 77.27% test accuracy | [GitHub →](https://github.com/SamisthaKesarwani/Diabetes-Prediction-using-Support-Vector-Machine) |
+
+</details>
+
+<details>
+<summary><b>🔹 Sonar Object Classification</b></summary>
+<br/>
+
+> Logistic regression classifying sonar signals as Rock or Mine, with confidence-based "Unknown" labeling.
+
+| Stack | Performance | Repository |
+|---|---|---|
+| Python, Scikit-learn, Logistic Regression | 76.2% test accuracy | [GitHub →](https://github.com/SamisthaKesarwani/Sonar-Object-Classification-with-Confidence-Based-Unknown-Detection) |
+
+</details>
+
+<br/>
+
+---
+
+## 💼 Experience
+
+**PBEL Virtual Internship** — *IBM*
+`June 2026 — Present`
+
+Applying data science and AI concepts to practical, project-based work.
+
+`Python` `Machine Learning` `Data Science`
+
+<br/>
+
+**Machine Learning Training Program** — *Effervescence, IIIT Allahabad*
+`May 2025 — June 2025`
+
+Trained on supervised learning, preprocessing, and model evaluation through hands-on projects.
+
+`Python` `Pandas` `NumPy` `Scikit-learn`
+
+<br/>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| 🥇 **Kaggle — Titanic Survival Prediction** | Built a Random Forest classifier, achieved a public leaderboard score of **0.748** |
+| 📁 **5+ Data Science & ML Projects** | End-to-end projects across ML, Deep Learning, NLP, Power BI, and Data Analytics |
+| 🎓 **Academic Excellence** | Maintaining a **CGPA of 9.02/10** in B.Tech (Honours), Data Science & Analytics |
+
+</div>
+
+<br/>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+| Provider | Certification |
+|---|---|
+| **NASSCOM (MeitY)** | Exploratory Data Analysis — Gold (95%) |
+| **TATA · Forage** | GenAI Powered Data Analytics Job Simulation |
+| **MSDE Skill India** | Mastering Power BI — Data Analysis & Dashboards |
+| **United University** | 50-Day Coding Challenge · AI 360 Workshop |
+| **Forage Academy** | Data Labeling Job Simulation |
+
+</div>
+
+<br/>
+
+---
+
+## 💻 Coding Profiles
+
+<div align="center">
+
 <a href="https://leetcode.com/u/Samisthakesarwani/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFC107?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1A1300"/>
 </a>
+<a href="https://github.com/SamisthaKesarwani">
+  <img src="https://img.shields.io/badge/GitHub-Repositories-FFC107?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1300"/>
+</a>
+
+</div>
+
+<br/>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SamisthaKesarwani&show_icons=true&theme=radical&hide_border=true&bg_color=1A1300&title_color=FFD54F&icon_color=FFD54F&text_color=FFF3D0&ring_color=FFC107" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamisthaKesarwani&theme=radical&hide_border=true&background=1A1300&ring=FFC107&fire=FFD54F&currStreakLabel=FFD54F" width="49%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamisthaKesarwani&layout=compact&theme=radical&hide_border=true&bg_color=1A1300&title_color=FFD54F&text_color=FFF3D0" width="49%"/>
+
+</div>
+
+<br/>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SamisthaKesarwani&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
+
+</div>
+
+<br/>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamisthaKesarwani&theme=react-dark&bg_color=1A1300&color=FFD54F&line=FFC107&point=FFF3D0&hide_border=true"/>
+
+</div>
+
+<br/>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SamisthaKesarwani/SamisthaKesarwani/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+<br/>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+Role: Aspiring Data Analyst
+
+Preparing For:
+  - Data Analyst interviews & case studies
+  - Advanced SQL for data querying & reporting
+  - Advanced Excel & Power BI dashboarding
+
+Learning:
+  - Statistics for data analysis
+  - Data storytelling & visualization best practices
+
+Building:
+  - Real-world analytics dashboards
+  - A stronger, interview-ready project portfolio
+
+Open To:
+  - Data Analyst Internships & Full-Time Roles
+  - Entry-Level Analytics Opportunities
+```
+
+<br/>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
 <a href="mailto:samisthakesarwani444@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-FFC107?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1300"/>
+</a>
+<a href="https://www.linkedin.com/in/samistha-kesarwani-55393625b/">
+  <img src="https://img.shields.io/badge/LinkedIn-FFC107?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1300"/>
+</a>
+<a href="https://github.com/SamisthaKesarwani">
+  <img src="https://img.shields.io/badge/GitHub-FFC107?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1300"/>
 </a>
 <a href="https://samistha-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-FFD60A?style=for-the-badge&logo=vercel&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Portfolio-FFC107?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A1300"/>
 </a>
-</p>
 
-<p align="center">
-<i>Thanks for stopping by — see you in the next commit ✨</i>
-</p>
+</div>
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD60A,50:FFC107,100:FF9800&height=120&section=footer"/>
-</p>
+<br/>
+
+---
+
+<div align="center">
+
+*"Decode data. Understand people."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC107,50:8B6A00,100:1A1300&height=150&section=footer" width="100%"/>
+
+</div>
