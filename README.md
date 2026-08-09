@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:13263A,100:9ADCF7&height=280&section=header&text=Samistha%20Kesarwani&fontSize=55&fontColor=F3F6F8&fontAlignY=35&animation=fadeIn&desc=Aspiring%20Data%20Analyst&descAlignY=55&descSize=18">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:D6E4F5,50:4A6FA5,100:1B3A6B&height=280&section=header&text=Samistha%20Kesarwani&fontSize=55&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Aspiring%20Data%20Analyst&descAlignY=55&descSize=18">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D6E4F5,50:4A6FA5,100:1B3A6B&height=280&section=header&text=Samistha%20Kesarwani&fontSize=55&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Aspiring%20Data%20Analyst&descAlignY=55&descSize=18" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:13263A,50:5FA8D3,100:9ADCF7&height=280&section=header&text=Samistha%20Kesarwani&fontSize=55&fontColor=07111F&fontAlignY=35&animation=fadeIn&desc=Aspiring%20Data%20Analyst&descAlignY=55&descSize=18">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2C5282,50:1B3A6B,100:14315E&height=280&section=header&text=Samistha%20Kesarwani&fontSize=55&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Aspiring%20Data%20Analyst&descAlignY=55&descSize=18">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5282,50:1B3A6B,100:14315E&height=280&section=header&text=Samistha%20Kesarwani&fontSize=55&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Aspiring%20Data%20Analyst&descAlignY=55&descSize=18" width="100%"/>
 </picture>
 
 <br/>
@@ -287,7 +287,7 @@ Trained on supervised learning, preprocessing, and model evaluation through hand
 
 ## 🎯 Current Focus
 
-\`\`\`yaml
+```yaml
 Role: Aspiring Data Analyst
 
 Preparing For:
@@ -306,7 +306,7 @@ Building:
 Open To:
   - Data Analyst Internships & Full-Time Roles
   - Entry-Level Analytics Opportunities
-\`\`\`
+```
 
 <br/>
 
@@ -356,9 +356,9 @@ Open To:
 *"Decode data. Understand people."*
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:9ADCF7,50:13263A,100:07111F&height=150&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A6B,50:4A6FA5,100:D6E4F5&height=150&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A6B,50:4A6FA5,100:D6E4F5&height=150&section=footer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:9ADCF7,50:5FA8D3,100:13263A&height=150&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:14315E,50:1B3A6B,100:2C5282&height=150&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14315E,50:1B3A6B,100:2C5282&height=150&section=footer" width="100%"/>
 </picture>
 
 </div>
