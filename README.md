@@ -193,10 +193,12 @@ Trained on supervised learning, preprocessing, and model evaluation through hand
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SamisthaKesarwani&show_icons=true&theme=radical&hide_border=true&bg_color=1A1300&title_color=FFD54F&icon_color=FFD54F&text_color=FFF3D0&ring_color=FFC107">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SamisthaKesarwani&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=B8860B&icon_color=FFC107&text_color=1A1300&ring_color=FFC107">
- </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=SamisthaKesarwani&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=B8860B&icon_color=FFC107&text_color=1A1300&ring_color=FFC107" width="49%"/>
+</picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=SamisthaKesarwani&theme=radical&hide_border=true&background=1A1300&ring=FFC107&fire=FFD54F&currStreakLabel=FFD54F">
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=SamisthaKesarwani&hide_border=true&background=FFFFFF&ring=FFC107&fire=FFC107&currStreakLabel=B8860B&currStreakNum=1A1300&sideNums=1A1300&sideLabels=1A1300&dates=8B6A00">
+  <img src="https://streak-stats.demolab.com/?user=SamisthaKesarwani&hide_border=true&background=FFFFFF&ring=FFC107&fire=FFC107&currStreakLabel=B8860B&currStreakNum=1A1300&sideNums=1A1300&sideLabels=1A1300&dates=8B6A00" width="49%"/>
 </picture>
 
 <br/>
