@@ -1,39 +1,39 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1300,50:8B6A00,100:FFC107&height=280&section=header&text=Samistha%20Kesarwani&fontSize=55&fontColor=FFF3D0&fontAlignY=35&animation=fadeIn&desc=Aspiring%20Data%20Analyst&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:13263A,100:9ADCF7&height=280&section=header&text=Samistha%20Kesarwani&fontSize=55&fontColor=F3F6F8&fontAlignY=35&animation=fadeIn&desc=Aspiring%20Data%20Analyst&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FFD54F&center=true&vCenter=true&width=650&lines=Decode+Data.+Understand+People.;Aspiring+Data+Analyst;Turning+Raw+Data+into+Real+Insights;Bubbly+Introvert+%2B+Curious+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=9ADCF7&center=true&vCenter=true&width=650&lines=Decode+Data.+Understand+People.;Aspiring+Data+Analyst;Turning+Raw+Data+into+Real+Insights;Bubbly+Introvert+%2B+Curious+Builder" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/B.Tech%20(Honours)-Data%20Science%20%26%20Analytics-FFC107?style=flat-square&labelColor=1A1300&logo=googlescholar&logoColor=FFD54F"/>
-<img src="https://img.shields.io/badge/CGPA-9.02%2F10-FFC107?style=flat-square&labelColor=1A1300&logo=bookstack&logoColor=FFD54F"/>
-<img src="https://img.shields.io/badge/Location-Prayagraj%2C%20India-FFC107?style=flat-square&labelColor=1A1300&logo=googlemaps&logoColor=FFD54F"/>
+<img src="https://img.shields.io/badge/B.Tech%20(Honours)-Data%20Science%20%26%20Analytics-9ADCF7?style=flat-square&labelColor=07111F&logo=googlescholar&logoColor=9ADCF7"/>
+<img src="https://img.shields.io/badge/CGPA-9.02%2F10-9ADCF7?style=flat-square&labelColor=07111F&logo=bookstack&logoColor=9ADCF7"/>
+<img src="https://img.shields.io/badge/Location-Prayagraj%2C%20India-9ADCF7?style=flat-square&labelColor=07111F&logo=googlemaps&logoColor=9ADCF7"/>
 
 <br/><br/>
 
 <a href="https://samistha-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-FFC107?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A1300"/>
+  <img src="https://img.shields.io/badge/Portfolio-9ADCF7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=07111F"/>
 </a>
 <a href="https://www.linkedin.com/in/samistha-kesarwani-55393625b/">
-  <img src="https://img.shields.io/badge/LinkedIn-FFC107?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1300"/>
+  <img src="https://img.shields.io/badge/LinkedIn-9ADCF7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=07111F"/>
 </a>
 <a href="mailto:samisthakesarwani444@gmail.com">
-  <img src="https://img.shields.io/badge/Email-FFC107?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1300"/>
+  <img src="https://img.shields.io/badge/Email-9ADCF7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=07111F"/>
 </a>
 <a href="https://github.com/SamisthaKesarwani">
-  <img src="https://img.shields.io/badge/GitHub-FFC107?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1300"/>
+  <img src="https://img.shields.io/badge/GitHub-9ADCF7?style=for-the-badge&logo=github&logoColor=white&labelColor=07111F"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=SamisthaKesarwani&style=flat-square&color=ffc107&label=Profile+Views"/>
-<img src="https://img.shields.io/github/followers/SamisthaKesarwani?style=flat-square&color=ffc107&labelColor=1A1300&label=Followers"/>
-<img src="https://img.shields.io/github/stars/SamisthaKesarwani?style=flat-square&color=ffc107&labelColor=1A1300&label=Stars"/>
+<img src="https://komarev.com/ghpvc/?username=SamisthaKesarwani&style=flat-square&color=9adcf7&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/SamisthaKesarwani?style=flat-square&color=9adcf7&labelColor=07111F&label=Followers"/>
+<img src="https://img.shields.io/github/stars/SamisthaKesarwani?style=flat-square&color=9adcf7&labelColor=07111F&label=Stars"/>
 
 </div>
 
@@ -174,10 +174,10 @@ Trained on supervised learning, preprocessing, and model evaluation through hand
 <div align="center">
 
 <a href="https://leetcode.com/u/Samisthakesarwani/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFC107?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1A1300"/>
+  <img src="https://img.shields.io/badge/LeetCode-Profile-9ADCF7?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=07111F"/>
 </a>
 <a href="https://github.com/SamisthaKesarwani">
-  <img src="https://img.shields.io/badge/GitHub-Repositories-FFC107?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1300"/>
+  <img src="https://img.shields.io/badge/GitHub-Repositories-9ADCF7?style=for-the-badge&logo=github&logoColor=white&labelColor=07111F"/>
 </a>
 
 </div>
@@ -190,9 +190,9 @@ Trained on supervised learning, preprocessing, and model evaluation through hand
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=SamisthaKesarwani&theme=radical&hide_border=true&background=1A1300&ring=FFC107&fire=FFD54F&currStreakLabel=FFD54F">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=SamisthaKesarwani&hide_border=true&background=FFFFFF&ring=FFC107&fire=FFC107&currStreakLabel=B8860B&currStreakNum=1A1300&sideNums=1A1300&sideLabels=1A1300&dates=8B6A00">
-  <img src="https://streak-stats.demolab.com/?user=SamisthaKesarwani&hide_border=true&background=FFFFFF&ring=FFC107&fire=FFC107&currStreakLabel=B8860B&currStreakNum=1A1300&sideNums=1A1300&sideLabels=1A1300&dates=8B6A00" width="49%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=SamisthaKesarwani&theme=radical&hide_border=true&background=07111F&ring=9ADCF7&fire=9ADCF7&currStreakLabel=9ADCF7">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=SamisthaKesarwani&hide_border=true&background=FFFFFF&ring=9ADCF7&fire=9ADCF7&currStreakLabel=284158&currStreakNum=07111F&sideNums=07111F&sideLabels=07111F&dates=13263A">
+  <img src="https://streak-stats.demolab.com/?user=SamisthaKesarwani&hide_border=true&background=FFFFFF&ring=9ADCF7&fire=9ADCF7&currStreakLabel=284158&currStreakNum=07111F&sideNums=07111F&sideLabels=07111F&dates=13263A" width="49%"/>
 </picture>
 
 </div>
@@ -206,9 +206,9 @@ Trained on supervised learning, preprocessing, and model evaluation through hand
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SamisthaKesarwani&theme=react-dark&bg_color=1A1300&color=FFD54F&line=FFC107&point=FFF3D0&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SamisthaKesarwani&bg_color=FFFFFF&color=B8860B&line=FFC107&point=1A1300&hide_border=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamisthaKesarwani&bg_color=FFFFFF&color=B8860B&line=FFC107&point=1A1300&hide_border=true"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SamisthaKesarwani&theme=react-dark&bg_color=07111F&color=9ADCF7&line=9ADCF7&point=F3F6F8&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SamisthaKesarwani&bg_color=FFFFFF&color=284158&line=9ADCF7&point=07111F&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamisthaKesarwani&bg_color=FFFFFF&color=284158&line=9ADCF7&point=07111F&hide_border=true"/>
 </picture>
 
 </div>
@@ -235,7 +235,7 @@ Trained on supervised learning, preprocessing, and model evaluation through hand
 
 ## 🎯 Current Focus
 
-```yaml
+\`\`\`yaml
 Role: Aspiring Data Analyst
 
 Preparing For:
@@ -254,7 +254,7 @@ Building:
 Open To:
   - Data Analyst Internships & Full-Time Roles
   - Entry-Level Analytics Opportunities
-```
+\`\`\`
 
 <br/>
 
@@ -265,16 +265,16 @@ Open To:
 <div align="center">
 
 <a href="mailto:samisthakesarwani444@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-FFC107?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1300"/>
+  <img src="https://img.shields.io/badge/Gmail-9ADCF7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=07111F"/>
 </a>
 <a href="https://www.linkedin.com/in/samistha-kesarwani-55393625b/">
-  <img src="https://img.shields.io/badge/LinkedIn-FFC107?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1300"/>
+  <img src="https://img.shields.io/badge/LinkedIn-9ADCF7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=07111F"/>
 </a>
 <a href="https://github.com/SamisthaKesarwani">
-  <img src="https://img.shields.io/badge/GitHub-FFC107?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1300"/>
+  <img src="https://img.shields.io/badge/GitHub-9ADCF7?style=for-the-badge&logo=github&logoColor=white&labelColor=07111F"/>
 </a>
 <a href="https://samistha-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-FFC107?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A1300"/>
+  <img src="https://img.shields.io/badge/Portfolio-9ADCF7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=07111F"/>
 </a>
 
 </div>
@@ -287,6 +287,6 @@ Open To:
 
 *"Decode data. Understand people."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC107,50:8B6A00,100:1A1300&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9ADCF7,50:13263A,100:07111F&height=150&section=footer" width="100%"/>
 
 </div>
