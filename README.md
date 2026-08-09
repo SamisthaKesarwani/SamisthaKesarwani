@@ -68,112 +68,50 @@ I define myself as a **bubbly introvert** — I love meeting people, hearing the
 </div>
 
 <br/>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
+<h2 align="center"> 💻 Technical Skills</h2>
 
 **Programming**
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,mysql&theme=dark"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<br/><br/>
+**Data Science**
 
-**Data Science & Machine Learning**
-
-<img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,pandas,numpy&theme=dark"/>
-
-<br/><br/>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FFD60A?style=for-the-badge&labelColor=1a1b27)
 
 **Analytics**
 
-<img src="https://skillicons.dev/icons?i=powerbi,excel&theme=dark"/>
-
-<br/><br/>
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-FFD60A?style=for-the-badge&labelColor=1a1b27)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-FFD60A?style=for-the-badge&labelColor=1a1b27)
+![Statistics](https://img.shields.io/badge/Statistics-FFD60A?style=for-the-badge&labelColor=1a1b27)
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=github,git,vscode,jupyter&theme=dark"/>
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-</div>
+<h2 align="center">🚀 Featured Projects</h2>
 
-<br/>
+- **[Leafie — Crop Disease Detection](https://github.com/SamisthaKesarwani/SamisthaKesarwani_PBEL-3.0)** — CNN trained from scratch across 38 disease/healthy classes and 14 crops, deployed via TF Lite (255MB → 21MB), flags low-confidence predictions instead of guessing · **86.3% val. accuracy** · [Live Demo](https://leafie.streamlit.app)
+- **[CineFans — Movie Recommender](https://github.com/SamisthaKesarwani/Movie-Recommender)** — Content-based engine using TF-IDF + cosine similarity over 5,000+ TMDB movies · [Live Demo](https://cinefans-movie-recommender.streamlit.app/)
+- **[Sales Performance & Revenue Dashboard](https://github.com/SamisthaKesarwani/Sales-Performance-Dashboard)** — Power BI dashboard over 10,000+ rows of Superstore data with monthly trends, region breakdowns, and interactive slicers
+- **[Diabetes Prediction Model](https://github.com/SamisthaKesarwani/Diabetes-Prediction-using-Support-Vector-Machine)** — Linear SVM on the PIMA dataset · **77.27% test accuracy**
+- **[Sonar Object Classification](https://github.com/SamisthaKesarwani/Sonar-Object-Classification-with-Confidence-Based-Unknown-Detection)** — Logistic regression labeling uncertain predictions "Unknown" instead of forcing a call · **76.2% test accuracy**
+- **Titanic — Kaggle Competition** — Random Forest entry, public leaderboard score **0.748**
 
----
-
-## 🚀 Featured Projects
-
-<details open>
-<summary><b>🔹 Leafie — Crop Disease Detection</b></summary>
-<br/>
-
-> CNN trained from scratch to identify 38 disease/healthy classes across 14 crops.
-
-| Stack | Performance | Repository |
-|---|---|---|
-| Python, TensorFlow/Keras, TF Lite | 86.3% val. accuracy · 255MB → 21MB | [GitHub →](https://github.com/SamisthaKesarwani/SamisthaKesarwani_PBEL-3.0) |
-
-**[Live Demo →](https://leafie.streamlit.app)**
-
-</details>
-
-<details>
-<summary><b>🔹 Sales Performance & Revenue Dashboard</b></summary>
-<br/>
-
-> BI dashboard analyzing 10,000+ rows of Superstore sales data with trends and regional breakdowns.
-
-| Stack | Performance | Repository |
-|---|---|---|
-| Power BI, DAX, Power Query, Excel | ₹2.30M sales · 10K+ rows modeled | [GitHub →](https://github.com/SamisthaKesarwani/Sales-Performance-Dashboard) |
-
-**[View PDF →](https://github.com/SamisthaKesarwani/Sales-Performance-Dashboard/blob/main/Sales-Dashboard.pdf)**
-
-</details>
-
-<details>
-<summary><b>🔹 CineFans — Movie Recommender</b></summary>
-<br/>
-
-> Content-based recommendation engine surfacing the closest matches from 5,000+ TMDB movies.
-
-| Stack | Performance | Repository |
-|---|---|---|
-| Python, Scikit-learn, NLP, Streamlit | TF-IDF + cosine similarity · 5K+ movies | [GitHub →](https://github.com/SamisthaKesarwani/Movie-Recommender) |
-
-**[Live Demo →](https://cinefans-movie-recommender.streamlit.app/)**
-
-</details>
-
-<details>
-<summary><b>🔹 Diabetes Prediction Model</b></summary>
-<br/>
-
-> Linear SVM classifier predicting diabetic vs. non-diabetic outcomes on the PIMA dataset.
-
-| Stack | Performance | Repository |
-|---|---|---|
-| Python, Scikit-learn, SVM | 77.27% test accuracy | [GitHub →](https://github.com/SamisthaKesarwani/Diabetes-Prediction-using-Support-Vector-Machine) |
-
-</details>
-
-<details>
-<summary><b>🔹 Sonar Object Classification</b></summary>
-<br/>
-
-> Logistic regression classifying sonar signals as Rock or Mine, with confidence-based "Unknown" labeling.
-
-| Stack | Performance | Repository |
-|---|---|---|
-| Python, Scikit-learn, Logistic Regression | 76.2% test accuracy | [GitHub →](https://github.com/SamisthaKesarwani/Sonar-Object-Classification-with-Confidence-Based-Unknown-Detection) |
-
-</details>
-
-<br/>
-
----
 
 ## 💼 Experience
 
@@ -255,12 +193,10 @@ Trained on supervised learning, preprocessing, and model evaluation through hand
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SamisthaKesarwani&show_icons=true&theme=radical&hide_border=true&bg_color=1A1300&title_color=FFD54F&icon_color=FFD54F&text_color=FFF3D0&ring_color=FFC107">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SamisthaKesarwani&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=B8860B&icon_color=FFC107&text_color=1A1300&ring_color=FFC107">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamisthaKesarwani&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=B8860B&icon_color=FFC107&text_color=1A1300&ring_color=FFC107" width="49%"/>
-</picture>
+ </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=SamisthaKesarwani&theme=radical&hide_border=true&background=1A1300&ring=FFC107&fire=FFD54F&currStreakLabel=FFD54F">
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=SamisthaKesarwani&hide_border=true&background=FFFFFF&ring=FFC107&fire=FFC107&currStreakLabel=B8860B&currStreakNum=1A1300&sideNums=1A1300&sideLabels=1A1300&dates=8B6A00">
-  <img src="https://streak-stats.demolab.com/?user=SamisthaKesarwani&hide_border=true&background=FFFFFF&ring=FFC107&fire=FFC107&currStreakLabel=B8860B&currStreakNum=1A1300&sideNums=1A1300&sideLabels=1A1300&dates=8B6A00" width="49%"/>
 </picture>
 
 <br/>
