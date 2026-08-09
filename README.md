@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1300,50:8B6A00,100:FFC107&height=280&section=header&text=Samistha%20Kesarwani&fontSize=55&fontColor=FFF3D0&fontAlignY=35&animation=fadeIn&desc=Aspiring%20Data%20Analyst%20%7C%20AI%20%2F%20ML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1300,50:8B6A00,100:FFC107&height=280&section=header&text=Samistha%20Kesarwani&fontSize=55&fontColor=FFF3D0&fontAlignY=35&animation=fadeIn&desc=Aspiring%20Data%20Analyst&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FFD54F&center=true&vCenter=true&width=650&lines=Decode+Data.+Understand+People.;Machine+Learning+%7C+AI+%7C+Data+Analytics;Turning+Raw+Data+into+Real+Insights;Bubbly+Introvert+%2B+Curious+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FFD54F&center=true&vCenter=true&width=650&lines=Decode+Data.+Understand+People.;Aspiring+Data+Analyst;Turning+Raw+Data+into+Real+Insights;Bubbly+Introvert+%2B+Curious+Builder" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -68,6 +68,7 @@ I define myself as a **bubbly introvert** — I love meeting people, hearing the
 </div>
 
 <br/>
+
 <h2 align="center"> 💻 Technical Skills</h2>
 
 **Programming**
@@ -191,7 +192,7 @@ Trained on supervised learning, preprocessing, and model evaluation through hand
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=SamisthaKesarwani&show_icons=true&theme=radical&hide_border=true&bg_color=1A1300&title_color=FFD54F&icon_color=FFD54F&text_color=FFF3D0&ring_color=FFC107" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamisthaKesarwani&theme=radical&hide_border=true&background=1A1300&ring=FFC107&fire=FFD54F&currStreakLabel=FFD54F" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=SamisthaKesarwani&theme=radical&hide_border=true&background=1A1300&ring=FFC107&fire=FFD54F&currStreakLabel=FFD54F" width="49%"/>
 
 <br/>
 
