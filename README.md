@@ -239,14 +239,12 @@ Trained on supervised learning, preprocessing, and model evaluation through hand
 ---
 
 ## 📊 GitHub Analytics
-
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=SamisthaKesarwani&hide_border=true&background=07111F&ring=9ADCF7&fire=9ADCF7&currStreakLabel=9ADCF7&currStreakNum=F3F6F8&sideNums=F3F6F8&sideLabels=F3F6F8&dates=9ADCF7">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=SamisthaKesarwani&hide_border=true&background=FFFFFF&ring=1B3A6B&fire=1B3A6B&currStreakLabel=1B3A6B&currStreakNum=07111F&sideNums=07111F&sideLabels=07111F&dates=4A6FA5">
-  <img src="https://streak-stats.demolab.com/?user=SamisthaKesarwani&hide_border=true&background=FFFFFF&ring=1B3A6B&fire=1B3A6B&currStreakLabel=1B3A6B&currStreakNum=07111F&sideNums=07111F&sideLabels=07111F&dates=4A6FA5" width="49%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=SamisthaKesarwani&hide_border=true&background=07111F&ring=9ADCF7&fire=9ADCF7&currStreakLabel=9ADCF7&currStreakNum=F3F6F8&sideNums=F3F6F8&sideLabels=F3F6F8&dates=9ADCF7">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=SamisthaKesarwani&hide_border=true&background=FFFFFF&ring=1B3A6B&fire=1B3A6B&currStreakLabel=1B3A6B&currStreakNum=07111F&sideNums=07111F&sideLabels=07111F&dates=4A6FA5">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=SamisthaKesarwani&hide_border=true&background=FFFFFF&ring=1B3A6B&fire=1B3A6B&currStreakLabel=1B3A6B&currStreakNum=07111F&sideNums=07111F&sideLabels=07111F&dates=4A6FA5" width="49%"/>
 </picture>
-
 </div>
 
 <br/>
