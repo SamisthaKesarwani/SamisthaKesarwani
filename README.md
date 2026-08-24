@@ -160,7 +160,7 @@ I define myself as a **bubbly introvert** — I love meeting people, hearing the
 ## 💼 Experience
 
 **PBEL Virtual Internship** — *IBM*
-`June 2026 — Present`
+`June 2026 — August 2026`
 
 Applying data science and AI concepts to practical, project-based work.
 
