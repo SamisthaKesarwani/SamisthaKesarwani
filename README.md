@@ -147,12 +147,20 @@ I define myself as a **bubbly introvert** — I love meeting people, hearing the
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-- **[Leafie — Crop Disease Detection](https://github.com/SamisthaKesarwani/SamisthaKesarwani_PBEL-3.0)** — CNN trained from scratch across 38 disease/healthy classes and 14 crops, deployed via TF Lite (255MB → 21MB), flags low-confidence predictions instead of guessing · **86.3% val. accuracy** · [Live Demo](https://leafie.streamlit.app)
-- **[CineFans — Movie Recommender](https://github.com/SamisthaKesarwani/Movie-Recommender)** — Content-based engine using TF-IDF + cosine similarity over 5,000+ TMDB movies · [Live Demo](https://cinefans-movie-recommender.streamlit.app/)
-- **[Sales Performance & Revenue Dashboard](https://github.com/SamisthaKesarwani/Sales-Performance-Dashboard)** — Power BI dashboard over 10,000+ rows of Superstore data with monthly trends, region breakdowns, and interactive slicers
-- **[Diabetes Prediction Model](https://github.com/SamisthaKesarwani/Diabetes-Prediction-using-Support-Vector-Machine)** — Linear SVM on the PIMA dataset · **77.27% test accuracy**
-- **[Sonar Object Classification](https://github.com/SamisthaKesarwani/Sonar-Object-Classification-with-Confidence-Based-Unknown-Detection)** — Logistic regression labeling uncertain predictions "Unknown" instead of forcing a call · **76.2% test accuracy**
-- **Titanic — Kaggle Competition** — Random Forest entry, public leaderboard score **0.748**
+* **[Leafie — Crop Disease Detection](https://github.com/SamisthaKesarwani/SamisthaKesarwani_PBEL-3.0)** — CNN trained from scratch across **38 disease/healthy classes** and **14 crops**, deployed via TensorFlow Lite (255 MB → 21 MB), flags low-confidence predictions instead of guessing · **86.3% validation accuracy** · 🌐 [Live Demo](https://leafie.streamlit.app)
+
+* **[Downly — YouTube Video Downloader](https://github.com/SamisthaKesarwani/Downly)** — Modern **Streamlit** application for downloading **YouTube Videos and Shorts** with video/audio support, quality selection, thumbnail preview, metadata display, and one-click downloads · Built with **Python, Streamlit, yt-dlp, and FFmpeg** · 🌐 **[Live Demo](https://downly-youtubevideodownload.streamlit.app/)**
+
+* **[CineFans — Movie Recommender](https://github.com/SamisthaKesarwani/Movie-Recommender)** — Content-based recommendation system using **TF-IDF** and **Cosine Similarity** over **5,000+ TMDB movies** · 🌐 [Live Demo](https://cinefans-movie-recommender.streamlit.app/)
+
+* **[Sales Performance & Revenue Dashboard](https://github.com/SamisthaKesarwani/Sales-Performance-Dashboard)** — Interactive **Power BI** dashboard analyzing **10,000+ Superstore records** with monthly trends, regional insights, KPIs, and dynamic slicers.
+
+* **[Diabetes Prediction Model](https://github.com/SamisthaKesarwani/Diabetes-Prediction-using-Support-Vector-Machine)** — Machine learning model using a **Linear Support Vector Machine (SVM)** on the PIMA Diabetes dataset · **77.27% test accuracy**
+
+* **[Sonar Object Classification](https://github.com/SamisthaKesarwani/Sonar-Object-Classification-with-Confidence-Based-Unknown-Detection)** — Logistic Regression classifier with **confidence-based unknown detection**, avoiding forced predictions on uncertain samples · **76.2% test accuracy**
+
+* **Titanic — Kaggle Competition** — Random Forest classifier achieving a **0.748 public leaderboard score**.
+
 
 
 ## 💼 Experience
