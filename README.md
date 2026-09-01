@@ -282,17 +282,13 @@ Trained on supervised learning, preprocessing, and model evaluation via hands-on
 <br/>
 
 ## 📈 Contribution Activity
-
 <div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SamisthaKesarwani&bg_color=07111F&color=9ADCF7&line=9ADCF7&point=F3F6F8&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SamisthaKesarwani&bg_color=FFFFFF&color=1B3A6B&line=1B3A6B&point=07111F&hide_border=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamisthaKesarwani&bg_color=FFFFFF&color=1B3A6B&line=1B3A6B&point=07111F&hide_border=true"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-ochre-two.vercel.app/graph?username=SamisthaKesarwani&bg_color=07111F&color=9ADCF7&line=9ADCF7&point=F3F6F8&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph-ochre-two.vercel.app/graph?username=SamisthaKesarwani&bg_color=FFFFFF&color=1B3A6B&line=1B3A6B&point=07111F&hide_border=true">
+  <img src="https://github-readme-activity-graph-ochre-two.vercel.app/graph?username=SamisthaKesarwani&bg_color=FFFFFF&color=1B3A6B&line=1B3A6B&point=07111F&hide_border=true"/>
 </picture>
-
 </div>
-
 <br/>
 
 ---
