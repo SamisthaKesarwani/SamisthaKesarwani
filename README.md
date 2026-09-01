@@ -149,6 +149,7 @@ I define myself as a **bubbly introvert** — I love meeting people, hearing the
 
 * **[Leafie — Crop Disease Detection](https://github.com/SamisthaKesarwani/SamisthaKesarwani_PBEL-3.0)** — CNN trained from scratch across **38 disease/healthy classes** and **14 crops**, deployed via TensorFlow Lite (255 MB → 21 MB), flags low-confidence predictions instead of guessing · **86.3% validation accuracy** · 🌐 [Live Demo](https://leafie.streamlit.app)
 * **[Sales Performance & Revenue Dashboard](https://github.com/SamisthaKesarwani/Sales-Performance-Dashboard)** — Interactive **Power BI** dashboard analyzing **10,000+ Superstore records** with monthly trends, regional insights, KPIs, and dynamic slicers.
+* **[Car Market Analysis — CarDekho](https://github.com/SamisthaKesarwani/Car-Market-Analysis-with-Car-Dekho)** — EDA on **301 used-car listings**, with IQR-based outlier treatment, engineered `Car_Age` and `Depreciation_Pct` features, correlation heatmap, and 10+ visualizations with insight notes.
 * **[CineFans — Movie Recommender](https://github.com/SamisthaKesarwani/Movie-Recommender)** — Content-based recommendation system using **TF-IDF** and **Cosine Similarity** over **5,000+ TMDB movies** · 🌐 [Live Demo](https://cinefans-movie-recommender.streamlit.app/)
 * **[Downly — YouTube Video Downloader](https://github.com/SamisthaKesarwani/Downly)** — Modern **Streamlit** application for downloading **YouTube Videos and Shorts** with video/audio support, quality selection, thumbnail preview, metadata display, and one-click downloads · Built with **Python, Streamlit, yt-dlp, and FFmpeg** · 🌐 **[Live Demo](https://downly-youtubevideodownload.streamlit.app/)**
 * **[Diabetes Prediction Model](https://github.com/SamisthaKesarwani/Diabetes-Prediction-using-Support-Vector-Machine)** — Machine learning model using a **Linear Support Vector Machine (SVM)** on the PIMA Diabetes dataset · **77.27% test accuracy**
@@ -159,24 +160,29 @@ I define myself as a **bubbly introvert** — I love meeting people, hearing the
 
 ## 💼 Experience
 
+**IBM SkillsBuild Data Analytics with AI Internship** — *AICTE × BharatCares × IBM*
+`August 2026 — September 2026`
+Built data analytics & AI skills — data cleaning, EDA, predictive modeling, visualization.
+`Data Cleaning` `EDA` `Predictive Modeling`
+<br/>
+
+**Data Analytics Internship** — *Edunet Foundation × VOIS for Tech*
+`August 2026 — September 2026`
+Applied data analytics across HR, agriculture, and business datasets using Python & LLMs.
+`Python` `LLM-Assisted Analysis`
+<br/>
+
 **PBEL Virtual Internship** — *IBM*
 `June 2026 — August 2026`
-
-Applying data science and AI concepts to practical, project-based work.
-
-`Python` `Machine Learning` `Data Science`
-
+Applied data science and AI concepts to practical, project-based work.
+`Python` `Machine Learning`
 <br/>
 
 **Machine Learning Training Program** — *Effervescence, IIIT Allahabad*
 `May 2025 — June 2025`
-
-Trained on supervised learning, preprocessing, and model evaluation through hands-on projects.
-
-`Python` `Pandas` `NumPy` `Scikit-learn`
-
+Trained on supervised learning, preprocessing, and model evaluation via hands-on projects.
+`Python` `Scikit-learn`
 <br/>
-
 ---
 
 ## 🏆 Achievements
@@ -200,17 +206,17 @@ Trained on supervised learning, preprocessing, and model evaluation through hand
 <div align="center">
 
 | Provider | Certification |
-|---|---|
+|:---|:---|
 | **NASSCOM (MeitY)** | Exploratory Data Analysis — Gold (95%) |
 | **TATA · Forage** | GenAI Powered Data Analytics Job Simulation |
-| **MSDE Skill India** | Mastering Power BI — Data Analysis & Dashboards |
-| **United University** | 50-Day Coding Challenge · AI 360 Workshop |
+| **MSDE Skill India** | Mastering Power BI: Data Analysis & Dashboard Creation |
 | **Forage Academy** | Data Labeling Job Simulation |
+| **IBM · FutureSkills Prime (FSP)** | Virtual Internship — Artificial Intelligence |
+| **IBM** | Generative AI Essentials: Using LLMs to Work with Data |
+| **IBM** | Make Agentic AI Work for You |
 
 </div>
-
 <br/>
-
 ---
 
 ## 💻 Coding Profiles
