@@ -160,30 +160,56 @@ I define myself as a **bubbly introvert** — I love meeting people, hearing the
 
 ## 💼 Experience
 
-**IBM SkillsBuild Data Analytics with AI Internship** — *AICTE × BharatCares × IBM*
-`August 2026 — September 2026`
-Built data analytics & AI skills — data cleaning, EDA, predictive modeling, visualization.
-`Data Cleaning` `EDA` `Predictive Modeling`
-<br/>
+<table>
+<tr>
+<td>
 
-**Data Analytics Internship** — *Edunet Foundation × VOIS for Tech*
-`August 2026 — September 2026`
+**IBM SkillsBuild Data Analytics with AI Internship**
+*AICTE × BharatCares × IBM* &nbsp;·&nbsp; `Aug 2026 – Sept 2026`
+
+Built data analytics & AI skills — data cleaning, EDA, predictive modeling, and visualization.
+
+![Python](https://img.shields.io/badge/-Data%20Cleaning-333333?style=flat-square) ![EDA](https://img.shields.io/badge/-EDA-333333?style=flat-square) ![Predictive Modeling](https://img.shields.io/badge/-Predictive%20Modeling-333333?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Data Analytics Internship**
+*Edunet Foundation × VOIS for Tech* &nbsp;·&nbsp; `Aug 2026 – Sept 2026`
+
 Applied data analytics across HR, agriculture, and business datasets using Python & LLMs.
-`Python` `LLM-Assisted Analysis`
-<br/>
 
-**PBEL Virtual Internship** — *IBM*
-`June 2026 — August 2026`
+![Python](https://img.shields.io/badge/-Python-333333?style=flat-square) ![LLM](https://img.shields.io/badge/-LLM%20Analysis-333333?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td>
+
+**PBEL Virtual Internship**
+*IBM* &nbsp;·&nbsp; `June 2026 – Aug 2026`
+
 Applied data science and AI concepts to practical, project-based work.
-`Python` `Machine Learning`
-<br/>
 
-**Machine Learning Training Program** — *Effervescence, IIIT Allahabad*
-`May 2025 — June 2025`
+![Python](https://img.shields.io/badge/-Python-333333?style=flat-square) ![ML](https://img.shields.io/badge/-Machine%20Learning-333333?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Machine Learning Training Program**
+*Effervescence, IIIT Allahabad* &nbsp;·&nbsp; `May 2025 – June 2025`
+
 Trained on supervised learning, preprocessing, and model evaluation via hands-on projects.
-`Python` `Scikit-learn`
-<br/>
----
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat-square) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333333?style=flat-square)
+
+</td>
+</tr>
+</table>---
 
 ## 🏆 Achievements
 
