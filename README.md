@@ -147,14 +147,17 @@ I define myself as a **bubbly introvert** — I love meeting people, hearing the
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-* **[Leafie — Crop Disease Detection](https://github.com/SamisthaKesarwani/SamisthaKesarwani_PBEL-3.0)** — CNN trained from scratch across **38 disease/healthy classes** and **14 crops**, deployed via TensorFlow Lite (255 MB → 21 MB), flags low-confidence predictions instead of guessing · **86.3% validation accuracy** · 🌐 [Live Demo](https://leafie.streamlit.app)
-* **[Sales Performance & Revenue Dashboard](https://github.com/SamisthaKesarwani/Sales-Performance-Dashboard)** — Interactive **Power BI** dashboard analyzing **10,000+ Superstore records** with monthly trends, regional insights, KPIs, and dynamic slicers.
-* **[Car Market Analysis — CarDekho](https://github.com/SamisthaKesarwani/Car-Market-Analysis-with-Car-Dekho)** — EDA on **301 used-car listings**, with IQR-based outlier treatment, engineered `Car_Age` and `Depreciation_Pct` features, correlation heatmap, and 10+ visualizations with insight notes.
-* **[CineFans — Movie Recommender](https://github.com/SamisthaKesarwani/Movie-Recommender)** — Content-based recommendation system using **TF-IDF** and **Cosine Similarity** over **5,000+ TMDB movies** · 🌐 [Live Demo](https://cinefans-movie-recommender.streamlit.app/)
-* **[Diabetes Prediction Model](https://github.com/SamisthaKesarwani/Diabetes-Prediction-using-Support-Vector-Machine)** — Machine learning model using a **Linear Support Vector Machine (SVM)** on the PIMA Diabetes dataset · **77.27% test accuracy**
-* **[Sonar Object Classification](https://github.com/SamisthaKesarwani/Sonar-Object-Classification-with-Confidence-Based-Unknown-Detection)** — Logistic Regression classifier with **confidence-based unknown detection**, avoiding forced predictions on uncertain samples · **76.2% test accuracy**
-* **[Downly — YouTube Video Downloader](https://github.com/SamisthaKesarwani/Downly)** — Modern **Streamlit** application for downloading **YouTube Videos and Shorts** with video/audio support, quality selection, thumbnail preview, metadata display, and one-click downloads · Built with **Python, Streamlit, yt-dlp, and FFmpeg** · 🌐 **[Live Demo](https://downly-youtubevideodownload.streamlit.app/)**
-* **Titanic — Kaggle Competition** — Random Forest classifier achieving a **0.748 public leaderboard score**.
+- **[Leafie — Crop Disease Detection](https://github.com/SamisthaKesarwani/SamisthaKesarwani_PBEL-3.0)** — CNN trained from scratch across **38 disease/healthy classes** spanning **14 crops**, deployed via TensorFlow Lite (255 MB → 21 MB). Flags low-confidence predictions instead of guessing. **86.3% validation accuracy** · 🌐 [Live Demo](https://leafie.streamlit.app)
+- **[Healthcare Analytics for Doctor Visits](https://github.com/SamisthaKesarwani/Healthcare-Analytics-for-Doctor-Visits)** — Interactive **Streamlit** dashboard exploring what drives doctor visits — illness burden, income, insurance coverage, and chronic conditions — across **12+ visualizations**.
+- **[Flipkart Product Performance & Pricing Analysis](https://github.com/SamisthaKesarwani/Flipkart-Product-Performance-Pricing-Analysis)** — End-to-end analytics and ML pipeline on **~205K Flipkart product reviews**, with a composite performance score, **Gradient Boosting** for rating drivers, and **TF-IDF** analysis of negative reviews to surface complaint themes.
+- **[Seasonal Agriculture Performance Analysis](https://github.com/SamisthaKesarwani/Seasonal-Agriculture-Performance-Analysis)** — Analyzed how crop yield, cost, and profit shift across India's **Kharif, Rabi, and Zaid** growing seasons using a **4,000-record farm dataset**.
+- **[Car Market Analysis — CarDekho](https://github.com/SamisthaKesarwani/Car-Market-Analysis-with-Car-Dekho)** — EDA on **301 used-car listings**, with IQR-based outlier treatment, engineered `Car_Age` and `Depreciation_Pct` features, a correlation heatmap, and 10+ visualizations with insight notes.
+- **[Sales Performance & Revenue Dashboard](https://github.com/SamisthaKesarwani/Sales-Performance-Dashboard)** — Interactive **Power BI** dashboard analyzing **10,000+ Superstore records**, with monthly trends, regional insights, KPIs, and dynamic slicers.
+- **[CineFans — Movie Recommender](https://github.com/SamisthaKesarwani/Movie-Recommender)** — Content-based recommendation system using **TF-IDF** and **Cosine Similarity** over **5,000+ TMDB movies** · 🌐 [Live Demo](https://cinefans-movie-recommender.streamlit.app/)
+- **[Diabetes Prediction Model](https://github.com/SamisthaKesarwani/Diabetes-Prediction-using-Support-Vector-Machine)** — ML model using a **Linear Support Vector Machine (SVM)** on the PIMA Diabetes dataset. **77.27% test accuracy**
+- **[Sonar Object Classification](https://github.com/SamisthaKesarwani/Sonar-Object-Classification-with-Confidence-Based-Unknown-Detection)** — Logistic Regression classifier with **confidence-based unknown detection**, avoiding forced predictions on uncertain samples. **76.2% test accuracy**
+- **[Downly — YouTube Video Downloader](https://github.com/SamisthaKesarwani/Downly)** — Streamlit app for downloading YouTube videos and Shorts, with video/audio support, quality selection, thumbnail preview, and metadata display. Built with **Python, Streamlit, yt-dlp, FFmpeg** · 🌐 [Live Demo](https://downly-youtubevideodownload.streamlit.app/)
+- **Titanic — Kaggle Competition** — Random Forest classifier achieving a **0.748 public leaderboard score**.
 
 
 
@@ -177,7 +180,7 @@ Built data analytics & AI skills — data cleaning, EDA, predictive modeling, an
 <td>
 
 **Data Analytics Internship**
-*Edunet Foundation × VOIS for Tech* &nbsp;·&nbsp; `Aug 2026 – Sept 2026`
+*AICTE X Edunet Foundation × VOIS for Tech* &nbsp;·&nbsp; `Aug 2026 – Sept 2026`
 
 Applied data analytics across HR, agriculture, and business datasets using Python & LLMs.
 
