@@ -87,7 +87,7 @@
 
 <img align="right" width="35%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
-I'm a final-year **B.Tech student in Data Science & Analytics** from Prayagraj, and I chose this field because data is everywhere — every industry, every decision, every trend has data behind it. I wanted to be the person who reads it.
+I'm a final-year **B.Tech student in Data Science & Analytics** and I chose this field because data is everywhere — every industry, every decision, every trend has data behind it. I wanted to be the person who reads it.
 
 I define myself as a **bubbly introvert** — I love meeting people, hearing their perspectives, and learning something new from every conversation. When I'm not building dashboards or training models, I'm probably asking someone about their life.
 
