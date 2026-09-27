@@ -95,7 +95,7 @@ I define myself as a **bubbly introvert** — I love meeting people, hearing the
 - 🤖 Building hands-on projects across **Machine Learning, Deep Learning, and NLP**
 - 📈 Skilled at crafting **business intelligence dashboards** that tell a story, not just show numbers
 - 🎓 Maintaining a **9.02/10 CGPA** while balancing coursework with **11+ real-world projects**
-- 🌱 Completed the **IBM PBEL 3.0 AI Internship** and three data analytics internships with **AICTE, VOIS, Edunet, and IBM SkillsBuild**
+- 🌱 Completed the **IBM PBEL 3.0 AI Internship**, data analytics internships with **AICTE X VOIS X Edunet** and data analytics with AI internships with **AICTE X IBM Skillsbuild X BharatCares**
 - 🔍 Currently looking for **data analytics internship** opportunities
 
 <br/>
